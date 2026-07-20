@@ -5,10 +5,13 @@ I design and direct data platforms institutions rely on — and the AI applicati
 
 **Directing now:** the MAPS data-lake for Fondazione Gran Sasso Tech · technical director, Fondazione Openpolis · CTO, DEPP.
 
-**What's public here.** Most of what I direct runs in private, client-owned infrastructure. The repositories below are artifacts of the working method — my team and I deliver with agentic tooling.
+**What's public here.** Most of what I direct runs in private, client-owned infrastructure. The pinned repositories are the public traces — the public-data lineage, the delivery method, and where the mathematics started.
 
-- [`ai-signal`](https://github.com/guglielmo/ai-signal) — an AI curator that turns information noise into signal
-- [`claude-customization`](https://github.com/guglielmo/claude-customization) / [`claude-skills`](https://github.com/guglielmo/claude-skills) — the agentic tooling and skills behind the delivery method
-- [`tmetric-minimal-mcp`](https://github.com/guglielmo/tmetric-minimal-mcp) — one of the MCP servers extending agent workflows into daily tools
+- [`geojson-italy`](https://github.com/guglielmo/geojson-italy) — GeoJSON/TopoJSON boundaries for every Italian municipality, region and province. Public-data plumbing others build on.
+- [`django-popolo`](https://github.com/openpolis/django-popolo) — the Django reference implementation of the Popolo open-government data standard (people, organizations, posts).
+- [`tmetric-minimal-mcp`](https://github.com/guglielmo/tmetric-minimal-mcp) — a Model Context Protocol server; a small public piece of the AI-over-data work.
+- [`guglielmo.github.io`](https://github.com/guglielmo/guglielmo.github.io) — source of [guglielmo.celata.com](https://guglielmo.celata.com).
+- [`formule-in-movimento`](https://github.com/guglielmo/formule-in-movimento) — animated videos making maths and physics visual. I came to AI from the mathematics; this is that thread.
+- [`txmd`](https://github.com/guglielmo/txmd) — a small terminal Markdown viewer, from everyday work.
 
 **Elsewhere:** [LinkedIn](https://linkedin.com/in/guglielmo-celata-21462a3a5) · [guglielmo.celata.com](https://guglielmo.celata.com)
